@@ -24,4 +24,9 @@ const participants = [
     username: 'https://github.com/aljatael',
     codepen: 'https://codepen.io/aljatael/pen/dPyPgQY',
   },
+   {
+    name: 'aria barzegar',
+    username: 'https://github.com/ariabarzegar',
+    codepen: 'https://codepen.io/aria-barzegar/pen/NPWqNzv',
+  },
 ];
