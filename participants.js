@@ -5,13 +5,13 @@
 const participants = [
   // آبجکت اول این آرایه مثال هست و حذف نکنیدش. فقط یک آبجت به آرایه اضافه کنید و اطلاعات خودتون رو وارد کنید
   {
-    name: "Tara",
-    username: "github.com/codePeykar",
-    codepen: "example.com",
+    name: 'Tara',
+    username: 'github.com/codePeykar',
+    codepen: 'example.com',
   },
   {
-    name: "Aliataei",
-    username: "github.com/aljatael",
-    codepen: "https://codepen.io/aljatael/pen/dPyPgQY",
+    name: 'Aliataei',
+    username: 'github.com/aljatael',
+    codepen: 'https://codepen.io/aljatael/pen/dPyPgQY',
   },
 ];
