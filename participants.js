@@ -10,8 +10,18 @@ const participants = [
     codepen: 'example.com',
   },
   {
-    name: 'AliAsadi',
+    name: 'Farzane',
+    username: 'https://github.com/farzane-na',
+    codepen: 'https://codepen.io/Farzane-Nazmabadi/pen/ZYEYqbr',
+  },
+  {
+    name: 'Ali Asadi',
     username: 'https://github.com/Imaliasadi/',
     codepen: 'https://codepen.io/Imaliasadi/pen/ZYEGELN',
+  },
+  {
+    name: 'Ali Ataei',
+    username: 'https://github.com/aljatael',
+    codepen: 'https://codepen.io/aljatael/pen/dPyPgQY',
   },
 ];
