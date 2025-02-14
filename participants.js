@@ -15,8 +15,13 @@ const participants = [
     codepen: 'https://codepen.io/Farzane-Nazmabadi/pen/ZYEYqbr',
   },
   {
-    name: 'Aliataei',
-    username: 'github.com/aljatael',
+    name: 'Ali Asadi',
+    username: 'https://github.com/Imaliasadi/',
+    codepen: 'https://codepen.io/Imaliasadi/pen/ZYEGELN',
+  },
+  {
+    name: 'Ali Ataei',
+    username: 'https://github.com/aljatael',
     codepen: 'https://codepen.io/aljatael/pen/dPyPgQY',
   },
 ];
