@@ -9,4 +9,9 @@ const participants = [
     username: 'github.com/codePeykar',
     codepen: 'example.com',
   },
+  {
+    name: 'Farzane',
+    username: 'https://github.com/farzane-na',
+    codepen: 'https://codepen.io/Farzane-Nazmabadi/pen/ZYEYqbr',
+  },
 ];
